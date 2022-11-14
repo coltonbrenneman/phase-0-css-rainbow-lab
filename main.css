@@ -1,3 +1,24 @@
+div#red{
+  color: #f00;
+}
+div#orange{
+  color: #ffa500;
+}
+div#yellow{
+  color: #ff0;
+}
+div#green{
+  color: #00bc3f;
+}
+div#blue{
+  color: #06f;
+}
+div#indigo{
+  color: #8a2be2;
+}
+div#violet{
+  color: #d300c9;
+}
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
